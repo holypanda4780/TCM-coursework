@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux 100/3. Introductino to linux/sudo overview.md",
+                "file": "Linux 100/3. Introductino to linux/3.3 Common network commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sudo overview"
+              "title": "3.3 Common network commands"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux 100/3. Introductino to linux/sudo overview.md",
+                "file": "Linux 100/3. Introductino to linux/3.3 Common network commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sudo overview"
+              "title": "Backlinks for 3.3 Common network commands"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux 100/3. Introductino to linux/sudo overview.md",
+                "file": "Linux 100/3. Introductino to linux/3.3 Common network commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sudo overview"
+              "title": "Outgoing links from 3.3 Common network commands"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux 100/3. Introductino to linux/sudo overview.md",
+                "file": "Linux 100/3. Introductino to linux/3.3 Common network commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sudo overview"
+              "title": "Outline of 3.3 Common network commands"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "e1e54f2aa5fe6f0f",
   "lastOpenFiles": [
-    "Linux 100/3. Introductino to linux/Navigating the file system.md",
-    "Linux 100/3. Introductino to linux/sudo overview.md",
+    "Linux 100/3. Introductino to linux/3.2 Navigating the file system.md",
+    "Linux 100/3. Introductino to linux/3.3 Common network commands.md",
+    "Linux 100/3. Introductino to linux/3.1 sudo overview.md",
     "Linux 100/1 Introduction/Why learn linux.md",
     "Linux 100/3. Introductino to linux",
     "Linux 100/2. Setting up",
